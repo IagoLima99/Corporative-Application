@@ -1,0 +1,15 @@
+C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Data\bin\Debug\netcoreapp3.1\CL.Data.deps.json
+C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Data\bin\Debug\netcoreapp3.1\CL.Data.dll
+C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Data\bin\Debug\netcoreapp3.1\CL.Data.pdb
+C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Data\obj\Debug\netcoreapp3.1\CL.Data.csproj.AssemblyReference.cache
+C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Data\obj\Debug\netcoreapp3.1\CL.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Data\obj\Debug\netcoreapp3.1\CL.Data.AssemblyInfoInputs.cache
+C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Data\obj\Debug\netcoreapp3.1\CL.Data.AssemblyInfo.cs
+C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Data\obj\Debug\netcoreapp3.1\CL.Data.csproj.CoreCompileInputs.cache
+C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Data\obj\Debug\netcoreapp3.1\CL.Data.dll
+C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Data\obj\Debug\netcoreapp3.1\CL.Data.pdb
+C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Data\bin\Debug\netcoreapp3.1\CL.Core.dll
+C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Data\bin\Debug\netcoreapp3.1\CL.Core.pdb
+C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Data\obj\Debug\netcoreapp3.1\CL.Data.csproj.CopyComplete
+C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Data\bin\Debug\netcoreapp3.1\CL.Manager.dll
+C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Data\bin\Debug\netcoreapp3.1\CL.Manager.pdb
