@@ -28,7 +28,7 @@ namespace CL.WebApi.Controllers
         }
 
         
-        [HttpGet]
+        [HttpGet("{id}")]
         public async Task<IActionResult> Get(int Id)
         {
             return Ok(await clienteManager.GetClientesAsync(Id));
