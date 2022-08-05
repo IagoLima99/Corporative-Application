@@ -11,3 +11,15 @@ C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Manager\obj\Debug\netcoreapp3.
 C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Manager\bin\Debug\netcoreapp3.1\CL.Core.dll
 C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Manager\bin\Debug\netcoreapp3.1\CL.Core.pdb
 C:\Users\Iago L\source\repos\Consultorio_Legal\CL.Manager\obj\Debug\netcoreapp3.1\CL.Manager.csproj.CopyComplete
+C:\Users\Iago L\Documents\AulasGit\CL.Manager\bin\Debug\netcoreapp3.1\CL.Manager.deps.json
+C:\Users\Iago L\Documents\AulasGit\CL.Manager\bin\Debug\netcoreapp3.1\CL.Manager.dll
+C:\Users\Iago L\Documents\AulasGit\CL.Manager\bin\Debug\netcoreapp3.1\CL.Manager.pdb
+C:\Users\Iago L\Documents\AulasGit\CL.Manager\bin\Debug\netcoreapp3.1\CL.Core.dll
+C:\Users\Iago L\Documents\AulasGit\CL.Manager\bin\Debug\netcoreapp3.1\CL.Core.pdb
+C:\Users\Iago L\Documents\AulasGit\CL.Manager\obj\Debug\netcoreapp3.1\CL.Manager.csproj.AssemblyReference.cache
+C:\Users\Iago L\Documents\AulasGit\CL.Manager\obj\Debug\netcoreapp3.1\CL.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iago L\Documents\AulasGit\CL.Manager\obj\Debug\netcoreapp3.1\CL.Manager.AssemblyInfoInputs.cache
+C:\Users\Iago L\Documents\AulasGit\CL.Manager\obj\Debug\netcoreapp3.1\CL.Manager.AssemblyInfo.cs
+C:\Users\Iago L\Documents\AulasGit\CL.Manager\obj\Debug\netcoreapp3.1\CL.Manager.csproj.CoreCompileInputs.cache
+C:\Users\Iago L\Documents\AulasGit\CL.Manager\obj\Debug\netcoreapp3.1\CL.Manager.dll
+C:\Users\Iago L\Documents\AulasGit\CL.Manager\obj\Debug\netcoreapp3.1\CL.Manager.pdb

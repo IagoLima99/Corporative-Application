@@ -14,7 +14,7 @@ namespace CL.Manager.Implementation
         public ClienteManager(IClienteRepository clienteRepository)
         {
             this.clienteRepository = clienteRepository;                                
-        }   
+        }
 
         public async Task<IEnumerable<Cliente>> GetClientesAsync()
         {
@@ -26,6 +26,19 @@ namespace CL.Manager.Implementation
             return await clienteRepository.GetClientesAsync(Id);
         }
 
+        public async Task DeleteClienteAsync(int Id)
+        {
+            await clienteRepository.DeleteClienteAsync(Id);
+        }
 
+        public async Task<Cliente> InsertClienteAsync(Cliente cliente)
+        {
+            return await clienteRepository.InsertClienteAsync(cliente);
+        }
+
+        public async Task<Cliente> UpdateClienteAsync(Cliente cliente)
+        {
+            return await clienteRepository.UpdateClienteAsync(cliente);
+        }
     }
 }

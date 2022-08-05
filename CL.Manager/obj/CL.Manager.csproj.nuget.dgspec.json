@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Iago L\\Documents\\AulasGit\\source\\CL.Manager\\CL.Manager.csproj": {}
+    "C:\\Users\\Iago L\\Documents\\AulasGit\\CL.Manager\\CL.Manager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Iago L\\Documents\\AulasGit\\source\\CL.Core\\CL.Core.csproj": {
+    "C:\\Users\\Iago L\\Documents\\AulasGit\\CL.Core\\CL.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Iago L\\Documents\\AulasGit\\source\\CL.Core\\CL.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Iago L\\Documents\\AulasGit\\CL.Core\\CL.Core.csproj",
         "projectName": "CL.Core",
-        "projectPath": "C:\\Users\\Iago L\\Documents\\AulasGit\\source\\CL.Core\\CL.Core.csproj",
+        "projectPath": "C:\\Users\\Iago L\\Documents\\AulasGit\\CL.Core\\CL.Core.csproj",
         "packagesPath": "C:\\Users\\Iago L\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Iago L\\Documents\\AulasGit\\source\\CL.Core\\obj\\",
+        "outputPath": "C:\\Users\\Iago L\\Documents\\AulasGit\\CL.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Iago L\\Documents\\AulasGit\\source\\CL.Manager\\CL.Manager.csproj": {
+    "C:\\Users\\Iago L\\Documents\\AulasGit\\CL.Manager\\CL.Manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Iago L\\Documents\\AulasGit\\source\\CL.Manager\\CL.Manager.csproj",
+        "projectUniqueName": "C:\\Users\\Iago L\\Documents\\AulasGit\\CL.Manager\\CL.Manager.csproj",
         "projectName": "CL.Manager",
-        "projectPath": "C:\\Users\\Iago L\\Documents\\AulasGit\\source\\CL.Manager\\CL.Manager.csproj",
+        "projectPath": "C:\\Users\\Iago L\\Documents\\AulasGit\\CL.Manager\\CL.Manager.csproj",
         "packagesPath": "C:\\Users\\Iago L\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Iago L\\Documents\\AulasGit\\source\\CL.Manager\\obj\\",
+        "outputPath": "C:\\Users\\Iago L\\Documents\\AulasGit\\CL.Manager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -94,8 +94,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Iago L\\Documents\\AulasGit\\source\\CL.Core\\CL.Core.csproj": {
-                "projectPath": "C:\\Users\\Iago L\\Documents\\AulasGit\\source\\CL.Core\\CL.Core.csproj"
+              "C:\\Users\\Iago L\\Documents\\AulasGit\\CL.Core\\CL.Core.csproj": {
+                "projectPath": "C:\\Users\\Iago L\\Documents\\AulasGit\\CL.Core\\CL.Core.csproj"
               }
             }
           }

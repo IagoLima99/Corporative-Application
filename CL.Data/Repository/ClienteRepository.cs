@@ -27,6 +27,31 @@ namespace CL.Data.Repository
         {
             return await context.Clientes.FindAsync(Id);
         }   
-   
+        
+        public async Task<Cliente> InsertClienteAsync(Cliente cliente)
+        {
+            await context.Clientes.AddAsync(cliente);
+            await context.SaveChangesAsync();
+            return cliente;
+        }
+
+        public async Task<Cliente> UpdateClienteAsync(Cliente cliente)
+        {
+            var clienteConsultado = await context.Clientes.FindAsync(cliente.Id);
+            if (clienteConsultado == null)
+            {
+                return null;
+            }
+            context.Entry(clienteConsultado).CurrentValues.SetValues(cliente);
+            await context.SaveChangesAsync();
+            return clienteConsultado;
+        }
+
+        public async Task DeleteClienteAsync(int Id)
+        {
+            var clienteConsultado = await context.Clientes.FindAsync(Id);
+            context.Clientes.Remove(clienteConsultado);
+            await context.SaveChangesAsync();
+        }
     }
 }

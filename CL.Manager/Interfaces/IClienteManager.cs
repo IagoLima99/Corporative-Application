@@ -10,5 +10,8 @@ namespace CL.Manager.Interfaces
     {
         Task<IEnumerable<Cliente>> GetClientesAsync();
         Task<Cliente> GetClientesAsync(int Id);
+        Task DeleteClienteAsync(int Id);
+        Task<Cliente> InsertClienteAsync(Cliente cliente);
+        Task<Cliente> UpdateClienteAsync(Cliente cliente);
     }
 }
